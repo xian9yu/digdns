@@ -1,7 +1,7 @@
 # digdns
 
-## 使用dig命令循环查询递归服务器对domain.txt列表域名的QUERY TIME，并记录返回单次查询时间，平均响应时间及失败率
-## 测试环境：Ubuntu
+### 使用dig命令循环查询递归服务器对domain.txt列表域名的QUERY TIME，并记录返回单次查询时间，多次查询的平均响应时间及失败率
+### 测试环境：Ubuntu
 
 
 1.使用前清除get10和get20两个文件的内容  
